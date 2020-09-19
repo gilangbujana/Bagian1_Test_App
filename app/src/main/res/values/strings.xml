@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bagian1 Test App Novian Gilang Bujana</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="masukkan_deretan_angka">Masukkan Deretan Angka</string>
+    <string name="cth_12345">cth : 1,2,3,4,5</string>
+    <string name="hasil">Hasil</string>
+    <string name="text_hasil">text hasil</string>
+    <string name="soal_dua">Soal Dua</string>
+    <string name="soal_satu">Soal Satu</string>
+</resources>
